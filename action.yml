@@ -1,5 +1,5 @@
-name: 'Custom Python GitHub Action'
-description: 'Calls Python script'
+name: 'Custom container GitHub Action'
+description: 'Calls container script'
 author: martoc
 runs:
   using: docker
