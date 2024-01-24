@@ -1,0 +1,6 @@
+name: 'Custom Python GitHub Action'
+description: 'Calls Python script'
+author: martoc
+runs:
+  using: docker
+  image: Dockerfile
